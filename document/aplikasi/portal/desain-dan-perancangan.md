@@ -151,7 +151,7 @@ Tahap-tahap atau langkah yang dilakukan dalam mengembangkan Sistem Informasi Por
 
 #### 3.3.1 Analisis dan Perancangan
 
-**Anaisis**
+**Analisis**
 
 Tim pengembang aplikasi akan melakukan analisis jika diperlukan dapat dilakukan survey pendahuluan untuk melihat sejauh mana kebutuhan pengguna akan sistem yang akan dibangun, fasiitas yang akan dibangun, data-data yang dibutuhkan, dll. Dalam analisis ini akan dilakukan diskusi-diskusi dengan bagian terkait pada satuan kerja.
 
